@@ -1,0 +1,9 @@
+{
+	"name": "DF-AzureProjectHarsha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "562c4f48-b9a2-4abc-b2b9-0d8429f52199",
+		"tenantId": "b395b754-ee84-4ab3-992f-820f1e8dbf63"
+	}
+}
