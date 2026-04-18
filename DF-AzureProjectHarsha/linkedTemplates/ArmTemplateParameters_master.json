@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DF-AzureProjectHarsha"
+		},
+		"AzureADLSGen2_accountKey": {
+			"value": ""
+		},
+		"azure_sql_password": {
+			"value": ""
+		},
+		"AzureADLSGen2_properties_typeProperties_url": {
+			"value": "https://azurestorageharsha.dfs.core.windows.net/"
+		},
+		"azure_sql_properties_typeProperties_server": {
+			"value": "azureprojectsqlserverharsha.database.windows.net"
+		},
+		"azure_sql_properties_typeProperties_database": {
+			"value": "azureprojectdbharsha"
+		},
+		"azure_sql_properties_typeProperties_userName": {
+			"value": "adminharsha"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
